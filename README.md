@@ -1,19 +1,22 @@
-## Clear style overrides in InDesign documents
-Clear style overrides from InDesign Text, Tables or Objects. After running this script any overriden attributes 
+## InDesign ドキュメントのスタイル オーバーライドをクリア
+このスクリプトを実行すると、InDesign テキスト、テーブル、またはオブジェクトのスタイルオーバーライドをクリアします。 
 
 <img src="https://github.com/grefel/clearOverrides/blob/master/docs/override.png" width="250px" />  
 
-will be resetted. For fine tuning, you can limit the process to objects or text formatted with a particular style.
+微調整のために、特定のスタイルでフォーマットされたオブジェクトやテキストに処理を限定することができます。
 
-Watch here https://youtu.be/g4MvA5dXhI0 the video tutorial!
+ビデオチュートリアル  
+https://youtu.be/g4MvA5dXhI0
 
-**Run this script at the beginning of your work! Or if you know what you're doing.**
+**作業の始めにこのスクリプトを実行してください。または、何をしているのかわかっている場合に実行してください。**
 
-A little user interface helps you to select what the script will clear:
+小さなユーザーインターフェースでスクリプトがクリアする内容を選択できます:
 
 <img src="https://github.com/grefel/clearOverrides/blob/master/docs/GUI.png" width="600px"/>
 
 
-## How to install
-The script is included in Adobe InDesign CC 2020 (February 20). You will find it in the Scripts Panel Folder Community Scripts. 
-Copy ***clearOverrides.jsx*** into your Script Panel folder. Further details can be found here [[DE] Skripte in InDesign installieren](http://www.publishingx.de/skripte-installieren/) or here [[EN] How to Install a Typical InDesign Script](http://www.danrodney.com/scripts/directions-installingscripts.html).
+## インストール方法
+このスクリプトは、Adobe InDesign CC 2020 (2月20日) に含まれています。  
+このスクリプトは、スクリプト パネル フォルダーの Community Scripts にあります。
+clearOverrides.jsx をスクリプト パネル フォルダーにコピーします。  
+詳細については、 [[DE] InDesign のインストール スクリプト](http://www.publishingx.de/skripte-installieren/)または [[EN] 一般的な InDesign スクリプトのインストール方法](http://www.danrodney.com/scripts/directions-installingscripts.html)を参照してください。
